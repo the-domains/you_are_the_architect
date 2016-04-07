@@ -1,0 +1,28 @@
+name: You_Are_the_Architect
+favicon: null
+layout_spectrum: 0.8819021130912006
+typography_spectrum: 0.6084817212540656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04202425177209079
+  lightness: 0.836785722989589
+  saturation: 0.09605471906252205
+  rhythmicContrast: 0.0852289127651602
+purpose: []
